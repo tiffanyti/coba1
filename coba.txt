@@ -1,16 +1,23 @@
 nyoba nge merge
-A
-B
-C
-D
-masukin sisa huruf
+1
+2
+3
+4
+masukin sisa huruf :
 E
 F
 G
-oke sukses, kalo ntar ada conflict :
-1
-2
-4
-4
-5
+I
+J
+K
+L
+M
+N
+gabisa ternyata masih smooth, eheehhehe, yaudah ubah lagi, ubah semua jadi huruf
+masih oke2 aja kenapa sih!
+
+dibawah diganti aja kalo gt
+
 masternya emang kek gmna sih, kok yang merge2 daritadi masuk2 aja
+
+AKHIRNYA, mau salah aja susah oh gt ternyata
