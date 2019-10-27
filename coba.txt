@@ -1,18 +1,18 @@
 nyoba nge merge
-A
-B
-C
-D
+1
+2
+3
+4
 masukin sisa huruf
 E
 F
 G
-oke sukses, kalo ntar ada conflict :
-H
 I
 J
 K
-5
-6
-7
+L
+M
+N
 gabisa ternyata masih smooth, eheehhehe, yaudah ubah lagi, ubah semua jadi huruf
+masih oke2 aja kenapa sih!
+dibawah diganti aja kalo gt
