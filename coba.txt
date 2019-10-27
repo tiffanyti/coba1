@@ -3,3 +3,7 @@ A
 B
 C
 D
+masukin sisa huruf
+E
+F
+G
